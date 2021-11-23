@@ -1,4 +1,4 @@
 # TIL
 
-[comment]: java/commentout.md	"test"
+[1]: java/commentout.md	"test"
 
