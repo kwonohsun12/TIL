@@ -1,10 +1,7 @@
----
-Since 2021.11
----
-
 # TIL(Today I Learned)
 
-
+> Since 2021.11
+>
 
 ## JAVA
 
