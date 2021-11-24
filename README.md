@@ -29,14 +29,14 @@
 ## SQL
 
 - MySQL (생활코딩)
-  - [ ] 데이터베이스의 목적
-  - [ ] MySQL 설치
-  - [ ] MySQL 설치
-  - [ ] MySQL의 구조
-  - [ ] MySQL 서버 접속
-  - [ ] MySQL 스키마(schema)의 사용
-  - [ ] SQL과 테이블 구조
-  - [ ] MySQL 테이블의 생성
+  - [x] 데이터베이스의 목적
+  - [x] MySQL 설치
+  - [x] MySQL 설치
+  - [x] MySQL의 구조
+  - [x] MySQL 서버 접속
+  - [x] MySQL 스키마(schema)의 사용
+  - [x] SQL과 테이블 구조
+  - [x] MySQL 테이블의 생성
   - [ ] MySQL의 CRUD
   - [ ] SQL의 INSERT 구문
   - [ ] SQL의 SELECT 구문
