@@ -28,7 +28,7 @@
 
 ## SQL
 
-- MySQL (생활코딩)
+- [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
   - [x] 데이터베이스의 목적
   - [x] MySQL 설치
   - [x] MySQL 설치
