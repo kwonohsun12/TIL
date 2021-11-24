@@ -1,7 +1,8 @@
 # TIL(Today I Learned)
 
-> Since 2021.11
+> 목적 : 수업내용 복습 및 코딩 연습
 >
+> Since 2021.11
 
 ## JAVA
 
