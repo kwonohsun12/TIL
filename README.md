@@ -6,7 +6,7 @@
 
 ## JAVA
 
-- [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c724716451a09de79f63e84b9e34d81d70c79ea3/JAVA/java-200-hanbit.md)
+- 알쏭달쏭 자바 200제
   - [x] 화면에 문자 표시하기
   - [x] 변수 사용
   - [ ] 프로그램의 흐름 : 분기
