@@ -4,6 +4,8 @@
 >
 > Since 2021.11
 
+> 💡 학원 수상이력을 추가해보자!
+
 ## JAVA
 
 - [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
@@ -98,4 +100,4 @@
 
 ### Contents
 
-- 추가 예정
+- [ ] 수상이력 추가하기
