@@ -10,7 +10,7 @@
 
 - [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
   - [x] 화면에 문자 표시하기
-  - [x] 변수 사용
+  - [x] 변수 사용 🔥🔥🔥
   - [ ] 프로그램의 흐름 : 분기
   - [ ] 프로그램의 흐름 : 반복
   - [ ] 기본 자료형과 연산
@@ -38,7 +38,7 @@
   - [x] MySQL 서버 접속
   - [x] MySQL 스키마(schema)의 사용
   - [x] SQL과 테이블 구조
-  - [x] MySQL 테이블의 생성
+  - [x] MySQL 테이블의 생성 🔥🔥🔥
   - [ ] MySQL의 CRUD
   - [ ] SQL의 INSERT 구문
   - [ ] SQL의 SELECT 구문
