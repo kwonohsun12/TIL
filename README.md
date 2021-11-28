@@ -4,13 +4,13 @@
 >
 > Since 2021.11
 
-> 💡 학원 수상이력을 추가해보자!
+> 💡 중요한 task는 여기에 적기!
 
-## JAVA
+## JAVA🔥
 
 - [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
   - [x] 화면에 문자 표시하기
-  - [x] 변수 사용 🔥🔥🔥
+  - [x] 변수 사용
   - [ ] 프로그램의 흐름 : 분기
   - [ ] 프로그램의 흐름 : 반복
   - [ ] 기본 자료형과 연산
@@ -28,7 +28,7 @@
 
 
 
-## SQL
+## SQL🔥
 
 - [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
   - [x] 데이터베이스의 목적
@@ -38,7 +38,7 @@
   - [x] MySQL 서버 접속
   - [x] MySQL 스키마(schema)의 사용
   - [x] SQL과 테이블 구조
-  - [x] MySQL 테이블의 생성 🔥🔥🔥
+  - [x] MySQL 테이블의 생성
   - [ ] MySQL의 CRUD
   - [ ] SQL의 INSERT 구문
   - [ ] SQL의 SELECT 구문
@@ -100,12 +100,12 @@
 
 ### Contents
 
-- [ ] 수상이력 추가하기
+- [x] 수상이력 추가하기 [21.11.28]
 
 
 
-## About job
+## About job🔥
 
 - [x] 면접 준비 day1 [21.11.26]
 - [x] 면접 준비 day2 [21.11.27]
-- [x] 면접 준비 day3 [21.11.28]🔥🔥
+- [x] 면접 준비 day3 [21.11.28]
