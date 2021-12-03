@@ -104,7 +104,13 @@
 
 
 
-## About Job🔥
+### links
+
+- [x] spring project config ip변경 (학원 DB종료로 인한 자체 DB로의 수정작업)
+
+
+
+## About Job
 
 ### interview
 
