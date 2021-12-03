@@ -90,7 +90,7 @@
 
 ### Effective
 
-- [x] 기존 스크롤바 색상 및 모양 변경_211125
+- [x] 기존 스크롤바 색상 및 모양 변경 [21.11.25]
 
 - [ ] home 사진 회전 효과 넣기
 
@@ -106,7 +106,7 @@
 
 ### links
 
-- [x] spring project config ip변경 (학원 DB종료로 인한 자체 DB로의 수정작업)
+- [x] spring project config ip변경 (학원 DB종료로 인한 자체 DB로의 수정작업) [21.12.03]
 
 
 
