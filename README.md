@@ -6,54 +6,34 @@
 
 > 💡 중요한 task는 여기에 적기!
 
-## JAVA
+## JAVA🔥
 
-- Do it! 자바 프로그래밍 입문🔥
+- 도서
 
-  - 내용 숙지
-  
-  
-  
-- [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
-  
-  - [x] 화면에 문자 표시하기
-  - [x] 변수 사용
+  - [ ] 자바의 정석1, 2🔥
+
+  - [ ] [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
 
 
 
-## SQL🔥
+## SQL
 
 - [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
-  - [x] 데이터베이스의 목적
+- 도서
   
-  - [x] MySQL 설치
-  
-  - [x] MySQL 설치
-  
-  - [x] MySQL의 구조
-  
-  - [x] MySQL 서버 접속
-  
-  - [x] MySQL 스키마(schema)의 사용
-  
-  - [x] SQL과 테이블 구조
-  
-  - [x] MySQL 테이블의 생성
-  
-    
-  
-- SQL 도서🔥
-  
-  - [ ] 칼퇴족 김대리는 알고 나만 모르는 SQL(기초편) [21.12.16~]
+  - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(기초편)
+  - [ ] 불친절한 SQL프로그래밍
 
  
 
 
 ## JSP🔥
 
-- JSP2.3 웹프로그래밍 기초부터 중급까지🔥
+- 도서
 
-  - [ ] 내용 숙지
+  - [ ] JSP2.3 웹프로그래밍 기초부터 중급까지
+
+  - [ ] 성낙현의 JSP 자바 웹 프로그래밍
 
     
 
@@ -106,13 +86,6 @@
 
 
 ## About Job
-
-### interview
-
-- [x] 면접 준비 day1 [21.11.26]
-- [x] 면접 준비 day2 [21.11.27]
-- [x] 면접 준비 day3 [21.11.28]
-  - 개념 숙지 및 코딩연습
 
 
 
