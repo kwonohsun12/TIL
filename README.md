@@ -6,11 +6,17 @@
 
 > 💡 중요한 task는 여기에 적기!
 
+## Computer Science
+
+- 온라인 강의 수강 예정
+
+  
+
 ## JAVA🔥
 
 - 도서
 
-  - [ ] 자바의 정석1, 2🔥
+  - [ ] 자바의 정석🔥
 
   - [ ] [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
 
@@ -23,6 +29,7 @@
   
   - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(기초편)
   - [ ] 불친절한 SQL프로그래밍
+  - [ ] 기타 도서
 
  
 
@@ -39,7 +46,7 @@
 
 ## Spring
 
-- 이론 학습 및 게시판 만들어보기
+- 도서
 
 
 
@@ -82,10 +89,6 @@
 ### links
 
 - [x] spring project config ip변경 (학원 DB종료로 인한 자체 DB로의 수정작업) [21.12.03]
-
-
-
-## About Job
 
 
 
