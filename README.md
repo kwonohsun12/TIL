@@ -16,9 +16,7 @@
 
 - 도서
 
-  - [ ] 자바의 정석🔥
-
-  - [ ] [알쏭달쏭 자바 200제](https://github.com/kwonohsun12/TIL/blob/c2a4de1450b698066b5d9f60fc467cd67d27fffe/JAVA/%EC%95%8C%EC%8F%AD%EB%8B%AC%EC%8F%AD%20%EC%9E%90%EB%B0%94%20200%EC%A0%9C.md)
+  - [ ] 자바의 정석(진행중)🔥
 
 
 
@@ -27,17 +25,17 @@
 - [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
 - 도서
   
-  - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(기초편)
-  - [ ] 불친절한 SQL프로그래밍 🔥
+  - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(완료)
+  - [ ] 불친절한 SQL프로그래밍🔥
 
  
 
 
-## JSP🔥🔥
+## JSP🔥
 
-- servlet & jsp 유튜브 강의 (19%) 🔥 
+- servlet & jsp 유튜브 강의 (진행중 40%)🔥 
 
-- 도서
+- 참고도서
 
   - JSP2.3 웹프로그래밍 기초부터 중급까지
 
@@ -45,21 +43,14 @@
 
   
 
-## Spring
+## 그 외
 
-- 도서
-
-
-
-## Linux
-
-- 도서 구매 -> 필요할 때마다 참고하는 식으로
-
-
-
-## Server
-
-- 개념 필요
+- 자바 구조적인 프로그래밍
+- 자바 객체지향 프로그래밍
+- Javascript (HTML, CSS 포함)
+- JDBC
+- Linux
+- Git
 
 
 
