@@ -20,23 +20,28 @@
 
 
 
-## SQL🔥
+## SQL
 
 - [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
 - 도서
   
   - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(완료)
-  - [ ] 불친절한 SQL프로그래밍🔥
+  - [ ] 불친절한 SQL프로그래밍
 
  
 
 
-## JSP🔥 
+## JSP
 
-- servlet & jsp 유튜브 강의 (진행중 51/109)🔥 
+- servlet & jsp 유튜브 강의 (진행중 51/109)
 - 도서) JSP2.3 웹프로그래밍 기초부터 중급까지
-
 - 도서) 성낙현의 JSP 자바 웹 프로그래밍
+
+
+
+## JDBC🔥
+
+- 유튜브 강의 (진행중 3/25)🔥 
 
 
 
