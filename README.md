@@ -4,7 +4,7 @@
 >
 > Since 2021.11
 
-> 💡 중요한 task는 여기에 적기!
+> 💡 next study plan : java, jsp model1,2
 
 ## Computer Science
 
@@ -31,17 +31,18 @@
  
 
 
-## JSP
+## JSP🔥
 
-- servlet & jsp 유튜브 강의 (진행중 51/109)
+- servlet & jsp 유튜브 강의 (진행중 53/109)
 - 도서) JSP2.3 웹프로그래밍 기초부터 중급까지
 - 도서) 성낙현의 JSP 자바 웹 프로그래밍
 
 
 
-## JDBC🔥
+## JDBC
 
-- 유튜브 강의 (진행중 3/25)🔥 
+- JDBC (7/25)
+- 트랜잭션 처리 (/)
 
 
 
