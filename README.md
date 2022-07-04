@@ -14,28 +14,32 @@
 
 ## JAVA🔥
 
-- 도서
-
-  - [ ] 자바의 정석(진행중)🔥
+- [ ] 자바의 정석 온라인 강의 (객체지향 편)🔥🔥🔥
 
 
 
 ## SQL
 
-- [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
-- 도서
-  
-  - [x] 칼퇴족 김대리는 알고 나만 모르는 SQL(완료)
-  - [ ] 불친절한 SQL프로그래밍
+- [x] [MySQL (생활코딩)](https://github.com/kwonohsun12/TIL/blob/95cba3cb6cb8faef949f18eaaaac5196f7331992/SQL/MySQL/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9.md)
+- [x] 도서) 칼퇴족 김대리는 알고 나만 모르는 SQL
+- [ ] 도서) 불친절한 SQL프로그래밍
+- [ ] sqld 자격증
 
  
 
 
-## JSP🔥
+## JSP & JDBC🔥
 
+<<<<<<< HEAD
 - servlet & jsp 유튜브 강의 (진행중 53/109)
 - 도서) JSP2.3 웹프로그래밍 기초부터 중급까지
 - 도서) 성낙현의 JSP 자바 웹 프로그래밍
+=======
+- [ ] 유튜브) servlet & jsp (57/109)🔥
+- [ ] 도서) JSP2.3 웹프로그래밍 기초부터 중급까지
+- [ ] 도서) 성낙현의 JSP 자바 웹 프로그래밍
+- [x] JDBC (7/25)
+- [ ] 트랜잭션 처리
 
 
 
